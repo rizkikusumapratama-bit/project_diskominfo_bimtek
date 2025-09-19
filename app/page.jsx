@@ -11,10 +11,10 @@ export default function Home() {
             <img src="/logo.png" alt="logo" className="h-16 w-16 object-contain" />
           </div>
           <h1 className="text-3xl font-bold text-gray-800 mb-2">
-            Layanan Publik Konoha
+            Layanan Publik Kecamatan Babakan Madang
           </h1>
           <p className="text-gray-600">
-            Sistem Layanan Publik Konoha Terpercaya
+            Sistem Layanan Publik Kecamatan Babakan Madang Terpercaya
           </p>
         </div>
 
